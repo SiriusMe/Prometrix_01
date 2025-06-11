@@ -1,0 +1,22 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>Smart_Metrology_19082024/Tool_Bar/Create_new_Project.png</file>
+        <file>Smart_Metrology_19082024/Open.png</file>
+        <file>Smart_Metrology_19082024/Save.png</file>
+        <file>Smart_Metrology_19082024/Project overview.png</file>
+        <file>Smart_Metrology_19082024/Characteristics overview.png</file>
+        <file>Smart_Metrology_19082024/Characteristics Properties.png</file>
+        <file>Smart_Metrology_19082024/Tool_Bar/Selection tool.png</file>
+        <file>Smart_Metrology_19082024/Tool_Bar/Stamp tool.png</file>
+        <file>Smart_Metrology_19082024/Tool_Bar/Tag tool.png</file>
+        <file>Smart_Metrology_19082024/Tool_Bar/Define_Field_Division.png</file>
+        <file>Smart_Metrology_19082024/Tool_Bar/Hide stamp.png</file>
+        <file>Smart_Metrology_19082024/Tool_Bar/Move View.png</file>
+        <file>Smart_Metrology_19082024/Tool_Bar/Zoom in.png</file>
+        <file>Smart_Metrology_19082024/Tool_Bar/Zoom out.png</file>
+        <file>Smart_Metrology_19082024/Tool_Bar/Zoom Dynamically.png</file>
+        <file>Smart_Metrology_19082024/Tool_Bar/Zoom Tool Area.png</file>
+        <file>Smart_Metrology_19082024/Tool_Bar/Display Whole Drawing.png</file>
+    </qresource>
+</RCC> 
